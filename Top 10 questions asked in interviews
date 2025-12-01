@@ -1,0 +1,21 @@
+Top 10 Fresher Interview Questions with Sample Answers
+Tell me about yourself.
+I am a recent graduate in Computer Science with strong fundamentals in programming and problem‑solving. I have worked on projects like a real‑time multiplayer Sudoku app and a recommendation system, which helped me apply concepts practically. I enjoy learning new technologies and am actively looking for opportunities to contribute to real‑world software development.
+Walk me through your projects.
+One of my key projects is a real‑time multiplayer Sudoku application built using React, Express, and Socket.IO. I handled backend logic, game state management, and real‑time communication. Another project is a diabetic food recommendation system using Rasa, which improved my understanding of AI-based conversational systems.
+What are your strengths and weaknesses?
+My strengths include problem‑solving, backend development, and learning new things quickly. A weakness I am working on is sometimes taking too much time to perfect minor details, but I am learning to balance speed and accuracy.
+Why should we hire you?
+You should hire me because I have strong technical fundamentals, hands‑on project experience, and the ability to learn quickly. I bring fresh ideas, a strong work ethic, and enthusiasm to contribute to the team.
+Explain OOP in simple words.
+OOP stands for Object‑Oriented Programming. It organizes code into objects that contain data and behavior. Its four pillars—Encapsulation, Abstraction, Inheritance, and Polymorphism—help make code reusable, modular, and easy to maintain.
+What is your favorite programming language and why?
+My favorite language is JavaScript because it allows full‑stack development, has a huge ecosystem, and supports building everything from websites to real‑time applications.
+Describe a challenge you faced and how you solved it.
+During my multiplayer Sudoku project, managing real‑time synchronization between players was challenging. I solved it by creating a robust game state management logic and using Socket.IO events to ensure instant updates across all connected clients.
+Where do you see yourself in 5 years?
+In five years, I see myself as a skilled software engineer leading projects, mentoring juniors, and contributing to impactful products.
+Explain any one Data Structure.
+A Queue is a linear data structure that follows FIFO—First In, First Out. It is used in scheduling, buffering, and handling real‑time tasks.
+Do you have any questions for us?
+Yes, I would like to know more about the team structure, the technologies I will work with, and opportunities for learning and growth.
